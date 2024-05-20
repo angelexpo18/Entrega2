@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A4D33-F090-4C17-B8B9-79B65030352B}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\angel\\source\\repos\\blazorappentrega2\\blazorapp1\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10A4D33-F090-4C17-B8B9-79B65030352B}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A4D33-F090-4C17-B8B9-79B65030352B}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\angel\\source\\repos\\blazorappentrega2\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10A4D33-F090-4C17-B8B9-79B65030352B}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A4D33-F090-4C17-B8B9-79B65030352B}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\angel\\source\\repos\\blazorappentrega2\\blazorapp1\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A4D33-F090-4C17-B8B9-79B65030352B}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A4D33-F090-4C17-B8B9-79B65030352B}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\angel\\source\\repos\\blazorappentrega2\\blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F10A4D33-F090-4C17-B8B9-79B65030352B}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:37:15.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\BlazorApp1\\TodoItem.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\BlazorApp1\\TodoItem.cs",
+              "RelativeToolTip": "BlazorApp1\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:06:02.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:04:43.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todo.razor",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\BlazorApp1\\Components\\Pages\\Todo.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Todo.razor",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\BlazorAppEntrega2\\BlazorApp1\\Components\\Pages\\Todo.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Todo.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:01:29.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
